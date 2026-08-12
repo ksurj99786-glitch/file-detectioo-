@@ -1,1 +1,1 @@
-# file-detectioo-
+An AI-based computer vision project that uses deep learning and OpenCV to detect a person's face from an image or video and predict their approximate age group and gender. The system processes facial features and provides real-time predictions, demonstrating the practical application of Computer Vision, CNNs, and Deep Learning.
